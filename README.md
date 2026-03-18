@@ -19,9 +19,9 @@ This project contains 10 tasks implemented using recursion only.
 10. GCD (Euclidean algorithm)
 
 ## Important
-- No loops were used
-- Only recursion was applied
-- All tasks work correctly
+Recursion was used for solving all main tasks.
+Loops were only used for input handling.
+All tasks work correctly
 
 ## How to run
 Run Main.java in IntelliJ IDEA
