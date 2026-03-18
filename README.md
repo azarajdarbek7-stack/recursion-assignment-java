@@ -4,7 +4,7 @@ Student: Azhar Aidarbek
 Group: BDA-2502  
 
 ## Description
-This project contains 10 tasks implemented using recursion only.
+This project contains 10 tasks implemented using recursion.
 
 ## Tasks
 1. Print digits of a number
@@ -19,8 +19,8 @@ This project contains 10 tasks implemented using recursion only.
 10. GCD (Euclidean algorithm)
 
 ## Important
-- No loops were used
-- Only recursion was applied
+- Recursion was used for solving all main tasks
+- Loops were only used for input handling
 - All tasks work correctly
 
 ## How to run
